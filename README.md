@@ -17,5 +17,6 @@
 ![image](https://github.com/user-attachments/assets/ab765d55-199f-4bf5-9125-339da6e0668f)
 
 372.[Super Pow](https://leetcode.com/problems/super-pow/description/)<br>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ffe4f5a0-c3ed-48a6-8fc0-9a8bd45d6cf7)
+
 
